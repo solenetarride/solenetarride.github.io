@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://solenetarride.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "solenetarride/solenetarride.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "cv.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 
 future                   : true
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Solène Tarride, PhD"
   avatar           : "profile.png"
-  bio              : "I am a research engineer at TEKLIA specialized in automatic document understanding"
+  bio              : "I am a research engineer at [TEKLIA](https://teklia.com/) specialized in automatic document understanding"
   location         : "Nantes"
-  employer         : TEKLIA
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=llmAIaEAAAAJ"
   email            : "starride@{compagny-name}.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://fr.linkedin.com/in/sol%C3%A8ne-tarride-99b8a7107"
+  linkedin         : "solène-tarride-99b8a7107"
   orcid            : 
   pinterest        :
   soundcloud       :
