@@ -83,8 +83,8 @@ author:
   name             : "Solène Tarride, PhD"
   avatar           : "cv.jpg"
   bio              : "I am a research engineer at TEKLIA specialized in automatic document understanding"
-  location         : "Nantes"
-  employer         : "Teklia"
+  location         : 
+  employer         : "Teklia, Paris (working remotely from Nantes)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=llmAIaEAAAAJ"
   email            : "starride@{compagny-name}.com"
