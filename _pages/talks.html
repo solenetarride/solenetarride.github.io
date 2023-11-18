@@ -5,12 +5,23 @@ permalink: /communications/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<!-- {% include base_path %}
+{% for talk in site.communications reversed %}
+  {% capture year %}{{ talk.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% endfor %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+  {% include archive-single-talk.html %} -->
 
-{% endif %}
-
+{% include base_path %}  
 {% for post in site.communications reversed %}
-  {% include archive-single-talk.html %}
+{% capture year %}{{ talk.date | date: '%Y' }}{% endcapture %}
+{% if year != written_year %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+  {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+{% include archive-single-talk.html %}
 {% endfor %}

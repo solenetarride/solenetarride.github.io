@@ -11,7 +11,7 @@ title                    : "Solène Tarride, PhD"
 title_separator          : "-"
 name                     : &name "Solène Tarride"
 description              : &description "personal description"
-url                      : https://solenetarride.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://127.0.0.1:4000/ #https://solenetarride.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "solenetarride/solenetarride.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,32 +20,6 @@ words_per_minute         :
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -82,39 +56,16 @@ analytics:
 author:
   name             : "Solène Tarride, PhD"
   avatar           : "cv.jpg"
-  bio              : "I am a research engineer at TEKLIA specialized in automatic document understanding"
-  location         : 
-  employer         : "Teklia (remote from Nantes)"
+  bio              : "Automatic document understanding"
+#  location         : Nantes, France
+  employer         : "Teklia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=llmAIaEAAAAJ"
-  email            : "starride@{compagny-name}.com"
+#  email            : "starride@{compagny-name}.com"
   researchgate     :  "https://www.researchgate.net/profile/Solene-Tarride"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "starride-teklia"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "solène-tarride-99b8a7107"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  orcid            : "https://orcid.org/0000-0001-6174-9865"
 
 
 # Reading Files
@@ -181,7 +132,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   communications:
@@ -191,17 +142,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,15 +149,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,10 +158,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
