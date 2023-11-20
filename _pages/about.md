@@ -10,16 +10,18 @@ redirect_from:
 
 Welcome to my academic page! 
 
-I am a research engineer at [TEKLIA](https://teklia.com/) where I develop new method for handwriting recognition on historical and modern documents. I work remotely from Nantes.
+I am a researcher at [TEKLIA](https://teklia.com/) where I develop new methods for **Automatic Document Understanding**. 
+I work remotely from Nantes.
 
-My research interests include computer vision, handwritten text recognition, natural language processing, attention-based neural networks.
-
-I received a M.Eng. degree in Computer Science from [ENSIIE](https://www.ensiie.fr/) and a M.Sc. degree in Data Science from [Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-traitement-de-linformation-et-exploitation-donnees). 
-I also hold a Ph.D in Computer Science from [INSA Rennes](https://www.insa-rennes.fr/). During my thesis with [IRISA](https://www.irisa.fr/) and [Doptim](https://doptim.eu/), I focused on Deep Learning for historical document understanding. 
+My research interests include computer vision, handwritten text recognition, natural language processing, visual question answering and image captionning.
 
 What's new?
 ======
-* [2022/11/23] [New paper under review](https://www.researchsquare.com/article/rs-2260181/v1)
-* [2022/10/14] Tutorial at [SIFED 2022](https://project.inria.fr/sifed2022/fr/) - see you in Rennes!
-* [2022/05/22] Poster presentation at [DAS 2022](https://das2022.univ-lr.fr/) - see you in La Rochelle!
-* [2022/04/11] Ph.D defense
+* **October 2023** - Looking forward to working on two new ANR research projects in 2024!
+  * FINLAM - Foundation and INtegrated models for Libraries Archives and Museums (with LITIS, TEKLIA, BnF)
+  * DAI-CRETDHI - Développement d’Approches Intelligentes Charleville, (ile de) Ré, Tours, Données Historiques de l’Ined (with L3I, CRM, Univ Tours, INED, TEKLIA, Geneanet).
+* **August 2023** - TEKLIA presented 4 articles at [ICDAR 2023](https://icdar2023.org/)!
+  * Talk @ ICDAR - [Large Scale Genealogical Information Extraction From Handwritten Quebec Parish Records](https://arxiv.org/abs/2304.14044) 
+  * Talk @ ICDAR - [Key-value information extraction from full handwritten pages](https://arxiv.org/abs/2304.13530)
+  * Talk @ HIP - [Handwritten Text Recognition from Crowdsourced Annotations](https://arxiv.org/abs/2306.10878)
+  * Poster @ ICDAR - [SIMARA: a database for key-value information extraction from full pages](https://arxiv.org/abs/2304.13606)
