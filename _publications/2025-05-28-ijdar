@@ -1,0 +1,19 @@
+---
+title: "The PARES Database: Information Extraction over Historical Parish Records"
+collection: publications
+permalink: /publication/2025-05-28-ijdar
+excerpt: "This paper explores multiple training strategies for key information extraction from handwritten population tables.<br/><img src='/images/article-2025-pares.png'>"
+date: 2025-05-28
+venue: "International Journal on Document Analysis and Recognition (IJDAR)"
+paperurl: "https://doi.org/10.1007/s10032-025-00531-z"
+citation: "Andrés, J., Wall, C., Tarride, S. et al. The PARES Database: Information Extraction over Historical Parish Records. IJDAR (2025). https://doi.org/10.1007/s10032-025-00531-z"
+---
+
+### Keywords 
+Dataset, Historical Documents, Information Extraction, Structured handwritten documents
+
+## Abstract
+Historical census records convey information that is key to perform genealogical research and demographic studies. Given the large number of documents of this type that exist, it is crucial to research methods that allow the automatic extraction of information from this type of document. In this work, we present a new corpus of this kind, comprising 535 historical census tables from French archives. Alongside this dataset, we have assessed three different baseline methods for information extraction. The first two methods employ a traditional sequential approach, where table rows are detected before extracting information. The third baseline uses an end-to-end model that directly extracts information from the table images without prior row detection. Our results demonstrate the effectiveness of all three baselines in tackling the information extraction task.
+
+## PDF
+The PDF is available on [Springer's website](https://link.springer.com/article/10.1007/s10032-025-00531-z) in open access.
