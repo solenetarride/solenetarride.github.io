@@ -12,7 +12,7 @@ redirect_from:
 
 ## Work experience
 
-* Since Feb 2022: AI Researcher, [Teklia](https://teklia.com/) (Paris, France)
+* **Since Feb 2022: AI Researcher, [Teklia](https://teklia.com/)** (Paris, France)
   * Contributing to research projects focused on automatic information extraction from handwritten and printed historical documents. Areas of expertise include:
      * Automatic information extraction 
      * Model adaptation strategies
@@ -20,20 +20,18 @@ redirect_from:
      * Integration of language constraints
      * Design of evaluation protocols
   * Key projects:
-     * Since 2024 [Finlam (ANR project)](https://projets.litislab.fr/finlam/). Automatic article extraction from historical digitized newspapers for libraries, archives, and museums. Collaboration with LITIS (project lead) and the National Library of France.
-     * Since 2024 [DAI-CReTDHI (ANR project)](https://dai-cretdhi.univ-lr.fr/). Automatic information extraction from 16th–18th century population registers to support historical demography and family social history research. Collaboration with L3I (project lead), INED, Sorbonne University, CETHIS, and Geneanet. 
-    * 2023-2024 [Socface (ANR project)](https://socface.site.ined.fr/) : Automated information extraction from French census records (1836–1936) to study the evolution of French society over a century. Collaboration with INED (project lead), Paris School of Economics, and France Archives.
-    * 2022-2024 [Hugin Munin](https://hugin-munin-project.github.io/) :  AI-driven handwriting recognition to enhance access to Norwegian cultural heritage. Collaboration with Østfold University College (project lead), the National Library of Norway, and Anahit.
-     * 2022-2023 [i-BALSAC](https://balsac.uqac.ca/historique/) :  Information extraction from historical Quebec population records to study francophone migration patterns in North America. Collaboration with the University of Quebec at Chicoutimi (project lead).
-  * Development and maintenance of open-source projects related to machine learning (models, metrics, training tools)
-  * Scientific communication (peer-reviewed papers, conference presentations)
-* Feb. 2019 - Jan. 2022: Ph.D. student, [Doptim](http://doptim.eu/) & [IRISA](https://www.irisa.fr/en), (Rennes, France)
+     * [**Finlam (ANR project)**](https://projets.litislab.fr/finlam/). Automatic article extraction from historical digitized newspapers for libraries, archives, and museums. Collaboration with LITIS (project lead) and the National Library of France.
+     * [**DAI-CReTDHI (ANR project)**](https://dai-cretdhi.univ-lr.fr/). Automatic information extraction from 16th–18th century population registers to support historical demography and family social history research. Collaboration with L3I (project lead), INED, Sorbonne University, CETHIS, and Geneanet. 
+    * [**Socface (ANR project)**](https://socface.site.ined.fr/) : Automated information extraction from French census records (1836–1936) to study the evolution of French society over a century. Collaboration with INED (project lead), Paris School of Economics, and France Archives.
+    * [**Hugin Munin**](https://hugin-munin-project.github.io/) :  AI-driven handwriting recognition to enhance access to Norwegian cultural heritage. Collaboration with Østfold University College (project lead), the National Library of Norway, and Anahit.
+     * [**i-BALSAC**](https://balsac.uqac.ca/historique/) :  Information extraction from historical Quebec population records to study francophone migration patterns in North America. Collaboration with the University of Quebec at Chicoutimi (project lead).
+* **Feb. 2019 - Jan. 2022: Ph.D. student, [Doptim](http://doptim.eu/) & [IRISA](https://www.irisa.fr/en), (Rennes, France)**
   * Developed deep learning methods for the extraction of genealogical information from French historical registers
   * Scientific communication (peer-reviewed papers, conference presentations)
   * Teaching assistant for Master’s-level students (Agile methodology and software development)
-* Oct. 2018 - Jan. 2019: Research Engineer, [IRISA](https://www.irisa.fr/en), (Rennes, France)
+* **Oct. 2018 - Jan. 2019: Research Engineer, [IRISA](https://www.irisa.fr/en), (Rennes, France)**
   * Worked on automatic understanding and processing of administrative forms (CERFA documents)
-* Apr. 2018 - Sept. 2018 : Research intern, Université de Rennes 1, (Rennes, France)
+* **Apr. 2018 - Sept. 2018 : Research intern, Université de Rennes 1, (Rennes, France)**
   * Applied deep learning for automatic segmentation of multiple sclerosis lesions in MRI images
 
 ## Education
