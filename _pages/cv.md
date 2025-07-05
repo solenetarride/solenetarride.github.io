@@ -12,20 +12,29 @@ redirect_from:
 
 ## Work experience
 
-* Since Feb 2022: Deep Learning Researcher, [Teklia](https://teklia.com/) (Paris, France)
-  * Improvement of deep learning methods for information extraction from handwritten or printed documents
-  * Collaboration with public and private institutions on national (Finlam, DAICREDIT, Socface) and international (Balsac, Hugin Munin) research projects
-  * Customer project management (data collection, model training, results analysis, communication)
-  * Development and maintenance of open source and internal ML projects (models, metrics, tools)
-  * Scientific communication (scientific papers, presentations)
+* Since Feb 2022: AI Researcher, [Teklia](https://teklia.com/) (Paris, France)
+  * Contributing to research projects focused on automatic information extraction from handwritten and printed historical documents. Areas of expertise include:
+     * Automatic information extraction 
+     * Model adaptation strategies
+     * Unsupervised quality estimation
+     * Integration of language constraints
+     * Design of evaluation protocols
+  * Key projects:
+     * Since 2024 [Finlam (ANR project)](https://projets.litislab.fr/finlam/). Automatic article extraction from historical digitized newspapers for libraries, archives, and museums. Collaboration with LITIS (project lead) and the National Library of France.
+     * Since 2024 [DAI-CReTDHI (ANR project)](https://dai-cretdhi.univ-lr.fr/). Automatic information extraction from 16th–18th century population registers to support historical demography and family social history research. Collaboration with L3I (project lead), INED, Sorbonne University, CETHIS, and Geneanet. 
+    * 2023-2024 [Socface (ANR project)](https://socface.site.ined.fr/) : Automated information extraction from French census records (1836–1936) to study the evolution of French society over a century. Collaboration with INED (project lead), Paris School of Economics, and France Archives.
+    * 2022-2024 [Hugin Munin](https://hugin-munin-project.github.io/) :  AI-driven handwriting recognition to enhance access to Norwegian cultural heritage. Collaboration with Østfold University College (project lead), the National Library of Norway, and Anahit.
+     * 2022-2023 [i-BALSAC](https://balsac.uqac.ca/historique/) :  Information extraction from historical Quebec population records to study francophone migration patterns in North America. Collaboration with the University of Quebec at Chicoutimi (project lead).
+  * Development and maintenance of open-source projects related to machine learning (models, metrics, training tools)
+  * Scientific communication (peer-reviewed papers, conference presentations)
 * Feb. 2019 - Jan. 2022: Ph.D. student, [Doptim](http://doptim.eu/) & [IRISA](https://www.irisa.fr/en), (Rennes, France)
-  * Deep learning for the extraction of genealogical information from French historical registers
-  * Scientific communication (scientific papers and presentations)
-  * Teaching assistant for master’s level students (Agile Methodology/Development)
+  * Developed deep learning methods for the extraction of genealogical information from French historical registers
+  * Scientific communication (peer-reviewed papers, conference presentations)
+  * Teaching assistant for Master’s-level students (Agile methodology and software development)
 * Oct. 2018 - Jan. 2019: Research Engineer, [IRISA](https://www.irisa.fr/en), (Rennes, France)
-  * Automatic understanding of administrative forms (CERFA documents)
+  * Worked on automatic understanding and processing of administrative forms (CERFA documents)
 * Apr. 2018 - Sept. 2018 : Research intern, Université de Rennes 1, (Rennes, France)
-  * Deep Learning for automatic segmentation of multiple sclerosis lesions in MRI images
+  * Applied deep learning for automatic segmentation of multiple sclerosis lesions in MRI images
 
 ## Education
 
@@ -39,31 +48,39 @@ redirect_from:
 ## Skills
 
 ### Machine Learning Development
-- Proficient in Python ML frameworks (Pytorch, HuggingFace, Tensorflow, Keras)
-- Adherence to industry best practices: git, unit tests, code reviews, CI/CD, documentation (mkdocs)
+- Proficient in Python ML frameworks: PyTorch, Hugging Face, TensorFlow, Keras
+- Strong adherence to software engineering best practices: Git, unit testing, code reviews, CI/CD pipelines, documentation (MkDocs)
 - Development and maintenance of open-source models (PyLaia, DAN) and tools (Nerval)
 - Publication of open-source models (HuggingFace, PyPi) and demonstrators (Docker, HuggingFace Spaces)
-- Mastery of experiment management tools (Weights & Biases, MLFLow, Tensorboard)
-- Knowledge of distributed computing on GPUs and resource management (OAR, SLURM)
+- Skilled in experiment management tools: Weights & Biases, MLflow, TensorBoard
+- Knowledge of distributed GPU computing and resource managers: OAR, SLURM
 
 ### Machine Learning Research
-- Expertise in deep learning, specializing in vision and language
-- In-depth knowledge of state-of-the-art models: automatic text recognition, object detection, image/text classification, named entity recognition, image/text generation, machine translation, visual question answering
-- Conducting research, including defining objectives, strategizing and executing experiments, and analyzing results
-- Writing scientific articles (DAS, ICDAR, IJDAR)
-- Delivering oral presentations at scientific conferences (DAS2022, ICDAR2023)
-- Peer-reviewing scientific articles (ICFHR, ICDAR, ICML, ICLR, HIP, IJDAR, ICIAP)
+- Deep expertise in vision and language models
+- Extensive knowledge of state-of-the-art techniques:
+  - Automatic text recognition
+  - Object detection
+  - Image and text classification
+  - Named entity recognition
+  - Image and text generation
+  - Machine translation
+  - Visual question answering
+- Experienced in all stages of research: problem definition, experimental design, implementation, and result analysis
+- Scientific communication
+  - Author of peer-reviewed publications (DAS, ICDAR, IJDAR)
+  - Oral presentations at international conferences (DAS 2022, ICDAR 2023)
+  - Peer reviewer for major conferences and journals (ICFHR, ICDAR, ICML, ICLR, HIP, IJDAR, ICIAP)
 
 ### Cross-functional skills
 - Project management 
-  - Effective teamwork with ML engineers, computer science researchers, social scientists & historians, and archivists
-  - International collaboration experience, participating in national and international research projects
-  - Proficient in project administration, including writing research project proposals, progress reports, and evaluation reports 
-  - Provided scientific supervision for several research interns
+  - Effective teamwork with machine learning engineers, computer science researchers, social scientists, historians, and archivists
+  - Experience in national and international multi-partner research projects
+  - Proficient in project administration: drafting research proposals, progress reports, and evaluation reports
+  - Provided scientific supervision for multiple research interns
 - Social & science
-  - Organized team seminars and team-building events at IRISA
-  - Co-organized the Pint Of Science festival in Rennes
-  - Mentored middle school girls to challenge stereotypes related to computer science through [L codent L créent](http://lclc-rennes.irisa.fr/)
+  - Organizer of team seminars and team-building activities at IRISA
+  - Co-organizer of the Pint of Science festival in Rennes
+  - Mentor for middle school girls to challenge stereotypes in computer science through the [L Codent L Créent](https://lclc-rennes.irisa.fr/) initiative
 - Social representation
   - Elected as a student representative to the Board of Directors of ENSIIE (2016-2017)
   - Invited as a student representative to the Academic Council of ENSIIE (2015-2017)
