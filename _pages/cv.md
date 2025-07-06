@@ -24,14 +24,14 @@ redirect_from:
      * [**DAI-CReTDHI (ANR project)**](https://dai-cretdhi.univ-lr.fr/). Automatic information extraction from 16th–18th century population registers to support historical demography and family social history research. Collaboration with L3I (project lead), INED, Sorbonne University, CETHIS, and Geneanet. 
     * [**Socface (ANR project)**](https://socface.site.ined.fr/) : Automated information extraction from French census records (1836–1936) to study the evolution of French society over a century. Collaboration with INED (project lead), Paris School of Economics, and France Archives.
     * [**Hugin Munin**](https://hugin-munin-project.github.io/) :  AI-driven handwriting recognition to enhance access to Norwegian cultural heritage. Collaboration with Østfold University College (project lead), the National Library of Norway, and Anahit.
-     * [**i-BALSAC**](https://balsac.uqac.ca/historique/) :  Information extraction from historical Quebec population records to study francophone migration patterns in North America. Collaboration with the University of Quebec at Chicoutimi (project lead).
+     * [**i-BALSAC**](https://balsac.uqac.ca/) :  Information extraction from historical Quebec population records to study francophone migration patterns in North America. Collaboration with the University of Quebec at Chicoutimi (project lead).
 * **Feb. 2019 - Jan. 2022: Ph.D. student, [Doptim](http://doptim.eu/) & [IRISA](https://www.irisa.fr/en), (Rennes, France)**
   * Developed deep learning methods for the extraction of genealogical information from French historical registers
   * Scientific communication (peer-reviewed papers, conference presentations)
   * Teaching assistant for Master’s-level students (Agile methodology and software development)
 * **Oct. 2018 - Jan. 2019: Research Engineer, [IRISA](https://www.irisa.fr/en), (Rennes, France)**
   * Worked on automatic understanding and processing of administrative forms (CERFA documents)
-* **Apr. 2018 - Sept. 2018 : Research intern, Université de Rennes 1, (Rennes, France)**
+* **Apr. 2018 - Sept. 2018 : Research intern, [Université de Rennes](https://www.univ-rennes.fr/), (Rennes, France)**
   * Applied deep learning for automatic segmentation of multiple sclerosis lesions in MRI images
 
 ## Education
