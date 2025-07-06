@@ -20,7 +20,7 @@ redirect_from:
      * Integration of language constraints
      * Design of evaluation protocols
   * Key projects:
-     * [**Finlam (ANR project)**](https://projets.litislab.fr/finlam/). Automatic article extraction from historical digitized newspapers for libraries, archives, and museums. Collaboration with LITIS (project lead) and the National Library of France.
+     * [**Finlam (ANR project)**](https://projets.litislab.fr/finlam/). Multimodal models for libraries, archives, and museums, with a focus on automatic article extraction from historical digitized newspapers. Collaboration with LITIS (project lead) and the National Library of France.
      * [**DAI-CReTDHI (ANR project)**](https://dai-cretdhi.univ-lr.fr/). Automatic information extraction from 16th–18th century population registers to support historical demography and family social history research. Collaboration with L3I (project lead), INED, Sorbonne University, CETHIS, and Geneanet. 
     * [**Socface (ANR project)**](https://socface.site.ined.fr/) : Automated information extraction from French census records (1836–1936) to study the evolution of French society over a century. Collaboration with INED (project lead), Paris School of Economics, and France Archives.
     * [**Hugin Munin**](https://hugin-munin-project.github.io/) :  AI-driven handwriting recognition to enhance access to Norwegian cultural heritage. Collaboration with Østfold University College (project lead), the National Library of Norway, and Anahit.
