@@ -46,7 +46,7 @@ document understanding](https://grce.univ-nantes.io/grce/ca/).
   * Talk @ ADAPDA 2024 - [Normalized vs Diplomatic Annotation: A Case Study of Automatic Information Extraction from Handwritten Uruguayan Birth Certificates](https://hal.science/hal-04769409v1)
 * **October 20, 2023** - TEKLIA became involved in two newly funded ANR projects:
   * [FINLAM - Foundation and INtegrated models for Libraries Archives and Museums](https://projets.litislab.fr/finlam/) (with LITIS, TEKLIA, BnF)
-  * [DAI-CRETDHI - Développement d’Approches Intelligentes Charleville, (ile de) Ré, Tours, Données Historiques de l’Ined](https://dai-cretdhi.univ-lr.fr/) (with L3I, CRM, Univ Tours, INED, TEKLIA, Geneanet).
+  * [DAI-CRETDHI - Développement d’Approches Intelligentes Charleville, (ile de) Ré, Tours, Données Historiques de l’Ined](https://dai-cretdhi.univ-lr.fr/) (with L3I, CRM, Univ Tours, INED, TEKLIA, Geneanet)
 * **August 29, 2023** - TEKLIA presented 4 articles at [ICDAR 2023](https://icdar2023.org/):
   * Talk @ ICDAR - [Large Scale Genealogical Information Extraction From Handwritten Quebec Parish Records](https://arxiv.org/abs/2304.14044) 
   * Talk @ ICDAR - [Key-value information extraction from full handwritten pages](https://arxiv.org/abs/2304.13530)
